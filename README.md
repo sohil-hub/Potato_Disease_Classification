@@ -1,6 +1,6 @@
 # Potato_Disease_Classification
 
-## Ojective
+## Objective
 Buiding a Convolution Neural Network to classify an image of potato plant into Early Blight, late Blight and Healthy Plant.
 
 
